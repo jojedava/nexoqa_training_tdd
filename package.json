@@ -1,0 +1,19 @@
+{
+  "name": "tdd-training",
+  "version": "1.0.0",
+  "description": "TDD training",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "check": "tsc --noEmit --noErrorTruncation"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "jest": "^29.7.0",
+    "prettier": "^2.4.1",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  }
+}
