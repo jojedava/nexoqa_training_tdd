@@ -3,7 +3,7 @@
       "editor.formatOnSave": true
     },
     "typescript.tsdk": "node_modules/typescript/lib",
-    "jest.autoRun": "off",
+    "jest.autoRun": "true",
     "jest.testExplorer": {
         "enabled": false
     }
